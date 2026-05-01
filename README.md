@@ -5,5 +5,7 @@ This tool is useful for college examination sections, faculty members, and acade
 
 You can Download the Application using the below link:
 
+Now the updated current version will work for different sections also it will ask where the output file needs to be saved.
+
 https://drive.google.com/file/d/11CwJx-tNiJjFcLBl6mkBeKXTGEVuKCu0/view?usp=sharing
 
